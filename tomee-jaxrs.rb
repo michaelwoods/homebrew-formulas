@@ -1,6 +1,6 @@
 require 'formula'
 
-class TomeeJaxrsprofile < Formula
+class TomeeJaxrs < Formula
   homepage 'http://tomee.apache.org/'
   url 'http://www.apache.org/dyn/closer.cgi?path=tomee/tomee-1.5.2/apache-tomee-1.5.2-jaxrs.tar.gz'
   version '1.5.2'
